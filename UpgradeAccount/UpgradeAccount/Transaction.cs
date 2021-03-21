@@ -35,7 +35,7 @@ namespace UpgradeAccount
             Console.WriteLine("Transaction amount is {0}", amount);
             Console.WriteLine("Type of Transaction {0}", additionalInfo);
 
-
+            Console.WriteLine("+++++++++++++++++++++++++++++++++++++");
 
         }
 

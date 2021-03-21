@@ -21,12 +21,14 @@ namespace UpgradeAccount
             Transaction T3 = new Transaction(Sender2, Receiver1, 1000, "Payment");
 
             Sender1.addTransaction(T1, T2, T3);
-            Sender1.ShowAllTransaction();
-            Sender1.ShowInfo();
+            Sender2.addTransaction(T1,T2,T3);
+            //Sender1.ShowInfo();
+            Sender1.Deposit(500);
+
             Sender1.Withdraw(100);
             Sender1.Transfer(Receiver2, 500);
-
-
+            Sender1.ShowAllTransaction();
+            Sender2.ShowAllTransaction();
 
 
         }
