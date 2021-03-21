@@ -1,0 +1,7 @@
+F:\C#\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+F:\C#\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+F:\C#\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+F:\C#\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+F:\C#\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+F:\C#\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+F:\C#\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
