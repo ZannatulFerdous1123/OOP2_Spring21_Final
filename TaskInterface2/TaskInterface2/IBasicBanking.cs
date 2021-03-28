@@ -8,5 +8,7 @@ namespace TaskInterface2
 {
     interface IBasicBanking
     {
+        bool deposit(int amount);
+        bool withdraw(int amount);
     }
 }

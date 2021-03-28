@@ -1,0 +1,7 @@
+F:\C#_FINAL\TaskInterface2\TaskInterface2\bin\Debug\TaskInterface2.exe.config
+F:\C#_FINAL\TaskInterface2\TaskInterface2\bin\Debug\TaskInterface2.exe
+F:\C#_FINAL\TaskInterface2\TaskInterface2\bin\Debug\TaskInterface2.pdb
+F:\C#_FINAL\TaskInterface2\TaskInterface2\obj\Debug\TaskInterface2.csprojAssemblyReference.cache
+F:\C#_FINAL\TaskInterface2\TaskInterface2\obj\Debug\TaskInterface2.csproj.CoreCompileInputs.cache
+F:\C#_FINAL\TaskInterface2\TaskInterface2\obj\Debug\TaskInterface2.exe
+F:\C#_FINAL\TaskInterface2\TaskInterface2\obj\Debug\TaskInterface2.pdb
