@@ -1,0 +1,7 @@
+F:\C#_FINAL\delegate\delegate\bin\Debug\@delegate.exe.config
+F:\C#_FINAL\delegate\delegate\bin\Debug\@delegate.exe
+F:\C#_FINAL\delegate\delegate\bin\Debug\@delegate.pdb
+F:\C#_FINAL\delegate\delegate\obj\Debug\delegate.csprojAssemblyReference.cache
+F:\C#_FINAL\delegate\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
+F:\C#_FINAL\delegate\delegate\obj\Debug\@delegate.exe
+F:\C#_FINAL\delegate\delegate\obj\Debug\@delegate.pdb
